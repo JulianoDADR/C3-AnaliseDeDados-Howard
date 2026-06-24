@@ -7,8 +7,6 @@
 - Juliano De Andrade Dantas Rodrigues
 - Júlia Soares Gomes Paiva
 
----
-
 ## 📌 Objetivo
 
 Explorar um conjunto de dados de preços de casas nos Estados Unidos, aplicando técnicas de análise exploratória, feature engineering, aprendizagem supervisionada e não supervisionada para prever e compreender os fatores que influenciam os preços dos imóveis.
